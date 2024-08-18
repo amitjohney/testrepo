@@ -4,10 +4,4 @@ metadata:
   name: myconfig3
 data:
   color: red
-  location: bharat
-  state: bihar
-  city: patna
-  area: "RPS more"
-  localarea: mansarovarnagar
-  road: "2"
   
