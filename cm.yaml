@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: myconfig3
+  name: thisissync
 data:
-  color: pink
-  backgroundcolor: white
+  color: green
+  backgroundcolor: red
   
