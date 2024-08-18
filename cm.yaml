@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: myconfig3
 data:
-  color: red
+  color: blue
   
