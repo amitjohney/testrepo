@@ -3,5 +3,6 @@ kind: ConfigMap
 metadata:
   name: myconfig3
 data:
-  color: blue
+  color: pink
+  backgroundcolor: white
   
