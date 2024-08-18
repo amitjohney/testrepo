@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata:
   name: thisissync
 data:
-  color: green
-  backgroundcolor: red
+  name: amit
+  lastname: kumar
   
