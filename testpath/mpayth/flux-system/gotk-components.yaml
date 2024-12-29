@@ -4876,6 +4876,12 @@ spec:
               fieldPath: metadata.namespace
         - name: TUF_ROOT
           value: /tmp/.sigstore
+        - name: HTTP_PROXY
+          value: http://172.20.73.196:3128
+        - name: HTTPS_PROXY
+          value: http://172.20.73.196:3128
+        - name: NO_PROXY
+          value: 100.96.0.1
         - name: GOMAXPROCS
           valueFrom:
             resourceFieldRef:
